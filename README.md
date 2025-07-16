@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Hey there! 👋 I'm Adem Shili 🖤</h1>
 
-<!--
-**Adem-Shili/Adem-Shili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">dont ask me idk why</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+🧠 Passionate Software Developer | 🎯 Problem Solver | 🎮 Curious Explorer
+
+- 🔧 Currently building full-stack apps and sharpening my backend logic.
+- 🚀 Exploring better API design and optimized database queries.
+- ⚙️ Interested in developer tooling, automation, and open source.
+- 🔁 Always pushing to write **clean**, **scalable**, and **efficient** code.
+
+---
+
+### 📬 Connect With Me
+
+- 📧 Email: ademshili.dev@gmail.com *(change this if needed)*
+- 🔗 LinkedIn: [Adem Shili](https://www.linkedin.com/in/your-profile)
+
+---
+
+### ⚡ Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" />
+</p>
+
+---
+
+### 📌 Pinned Project
+
+[**lawyer-Up**](https://github.com/lordmaster099/lawyer-Up) — Legal support platform, backend contributor 💼
