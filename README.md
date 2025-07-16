@@ -8,16 +8,16 @@
 
 🧠 Passionate Software Developer | 🎯 Problem Solver | 🎮 Curious Explorer
 
-- 🔧 Currently building full-stack apps and sharpening my backend logic.
+- 🔧 Currently building full-stack apps and sharpening my backend logic and my front end instinct.
 - 🚀 Exploring better API design and optimized database queries.
-- ⚙️ Interested in developer tooling, automation, and open source.
-- 🔁 Always pushing to write **clean**, **scalable**, and **efficient** code.
+- ⚙️ Interested in developing , testing open source and learning.
+- 🔁 Always pushing to write **clean**, **understandable**, and **efficient** code.
 
 ---
 
 ### 📬 Connect With Me
 
-- 📧 Email: ademshili.dev@gmail.com *(change this if needed)*
+- 📧 Email: adem.alshili@gmail.com *(change this if needed)*
 - 🔗 LinkedIn: [Adem Shili](https://www.linkedin.com/in/your-profile)
 
 ---
