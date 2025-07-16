@@ -18,7 +18,7 @@
 ### 📬 Connect With Me
 
 - 📧 Email: adem.alshili@gmail.com *(change this if needed)*
-- 🔗 LinkedIn: [Adem Shili](https://www.linkedin.com/in/your-profile)
+- 🔗 LinkedIn: [Adem Shili](https://www.linkedin.com/in/adem-shili-733945374/)
 
 ---
 
@@ -38,4 +38,4 @@
 
 ### 📌 Pinned Project
 
-[**lawyer-Up**](https://github.com/lordmaster099/lawyer-Up) — Legal support platform, backend contributor 💼
+[**lawyer-Up**](https://github.com/lordmaster099/lawyer-Up) — Legal support platform, frontend contributor 💼
