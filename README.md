@@ -17,7 +17,7 @@
 
 ### 📬 Connect With Me
 
-- 📧 Email: adem.alshili@gmail.com *(change this if needed)*
+- 📧 Email: adem.alshili@gmail.com 
 - 🔗 LinkedIn: [Adem Shili](https://www.linkedin.com/in/adem-shili-733945374/)
 
 ---
